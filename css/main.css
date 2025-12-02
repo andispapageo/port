@@ -3132,13 +3132,13 @@ html.no-csstransitions .home-content__main {
 }
 
 .contact-secondary {
-    width: 35%;
+    width: 60%;
 }
 
 .contact-secondary::before {
     content: "";
     display: block;
-    width: 35%;
+    width: 60%;
     position: absolute;
     top: 0;
     bottom: 0;
